@@ -68,3 +68,5 @@ Emotion Accuracy: 72.2%
 Logistic Regression outperforms the other models in emotion classification with an accuracy of 89.9%.
 All models have similar performance for sentiment classification, with accuracies around 72%.
 Logistic Regression is the best choice for emotion classification(Because its binary, negative or positive), while all models perform similarly for sentiment tasks.
+
+Please feel free to work on this with me and reach out if needed.
